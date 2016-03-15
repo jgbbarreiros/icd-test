@@ -1,5 +1,5 @@
 package test;
 
 public class TestClass {
-	private String poop = "shit";
+	private static String poop = "poop";
 }
